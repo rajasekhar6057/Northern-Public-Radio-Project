@@ -1,2 +1,2 @@
-# Northern-Public-Radio-Project
-This Project is for Northern Public Radio in finding the Adequacy levels by District wise using Tableau
+# finalproject-team02-wnij-bhavinraj
+finalproject-team02-wnij-bhavinraj created by GitHub Classroom
