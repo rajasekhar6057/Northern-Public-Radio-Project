@@ -1,2 +1,2 @@
-# finalproject-team02-wnij-bhavinraj
-finalproject-team02-wnij-bhavinraj created by GitHub Classroom
+# Northern Public Radio Project
+Final Project for the Data Visualization Course
